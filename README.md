@@ -20,6 +20,11 @@ An endpoint is one end of a communication channel.
 
 What is HTTP and name 5 frequently used http methods:
 HTTP is a protocol for fetching resources such as HTML documents
+POST
+GET
+DELETE
+PATCH 
+PUT
 
 
 What is J.S.O.N?
